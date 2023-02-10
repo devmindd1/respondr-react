@@ -1,0 +1,54 @@
+.for_reviews_cont {
+    margin-top: 109px;
+}
+
+.for_reviews_cont_block {
+    max-width: 877px;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.for_reviews_title2 {
+    margin-top: 19px;
+}
+
+.for_reviews_content_block {
+    margin-top: 22px;
+}
+
+.for_reviews_content_block p {
+    margin-top: 15px;
+}
+
+.for_reviews_btn_block {
+    margin-top: 55px;
+}
+
+.for_reviews_pic_animations_block {
+    position: relative;
+    margin-left: 50px;
+}
+.for_reviews_pic_animation1{
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    /*animation-name: mymove;*/
+    /*animation-duration: 1s;*/
+    /*animation-fill-mode:both;*/
+}
+.for_reviews_pic_animation2{
+    position: absolute;
+    top: -5%;
+    left: 0px;
+}
+.for_reviews_pic_animation3{
+    position: absolute;
+    top: 25%;
+   right: -20%;
+}
+@keyframes mymove {
+    from {left: 30px;}
+    to {left: -10%;}
+}
+
+

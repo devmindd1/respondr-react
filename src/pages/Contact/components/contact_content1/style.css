@@ -1,0 +1,23 @@
+.ContactContent1_cont {
+    max-width: 592px;
+    width: 100%;
+}
+
+.ContactContent1_cont_title2 {
+    margin: 19px 0 84px;
+}
+
+.ContactContent1_cont_info_block {
+    margin-bottom: 90px;
+}
+
+.ContactContent1_cont_info_block div {
+    max-width: 243px;
+    width: 100%;
+}
+
+.ContactContent1_cont_info_block div:hover {
+    transform: scale(1.05);
+    background: rgba(238, 240, 243, 0.85);
+    padding: 2px 3px;
+}

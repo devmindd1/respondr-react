@@ -1,0 +1,19 @@
+.reviews_management_block_reviews {
+    margin-top: 35px;
+    margin-bottom: 55px;
+}
+
+.reviews_management_block_reviews h2, .reviews_management_block_analytics h2 {
+    margin-bottom: 10px;
+}
+
+.reviews_management_block2 {
+    max-width: 1013px;
+    width: 100%;
+    margin-left: 76px;
+}
+
+.reviews_management_block2 img {
+    max-width: 1013px;
+    width: 100%;
+}

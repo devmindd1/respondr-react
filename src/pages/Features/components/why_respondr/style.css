@@ -1,0 +1,30 @@
+.why_respandr_cont{
+    margin-top: 183px;
+}
+.why_respandr_cont_block1{
+    position: relative;
+    max-width: 579px;
+    width: 100%;
+}
+.why_respondr_general_pic{
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+}
+.Why_respondr_question_pic{
+    position: absolute;
+    top: 0px;
+    z-index: 99;
+}
+.why_respandr_cont_block2 {
+    max-width: 782px;
+    width: 100%;
+    margin-left: 20px;
+}
+.why_respandr_cont_block2 p{
+    margin-top: 30px;
+}
+.why_respandr_cont_block2 div{
+    margin-top: 30px;
+}
+

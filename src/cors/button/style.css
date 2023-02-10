@@ -1,0 +1,13 @@
+.vButton {
+    height: 80px;
+    border-radius: 5px;
+    border: transparent;
+    width: 100%;
+    font-size: 16px;
+    line-height:19px;
+    font-weight: 700;
+    color: #171717;
+}
+.vButton:hover{
+    background: #4DC7F4;
+}

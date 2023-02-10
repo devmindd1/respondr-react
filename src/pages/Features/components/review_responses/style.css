@@ -1,0 +1,45 @@
+.review_responses_cont {
+    margin-top: 64px;
+    padding: 120px 0px;
+    height: 650px;
+}
+
+.review_responses_cont_block1 {
+    max-width: 711px;
+    width: 100%;
+}
+
+.review_responses_cont_block1 div {
+    margin-top: 29px;
+}
+
+.review_responses_cont_block2 {
+    max-width: 634px;
+    width: 100%;
+    /*margin-left: 20px;*/
+    position: relative;
+}
+
+.review_responses_general_pic {
+    max-width: 634px;
+    width: 100%;
+    z-index: -1;
+}
+
+.review_responses_pic1 {
+    position: absolute;
+    top: 2%;
+    max-width: 554px;
+}
+
+.review_responses_pic2 {
+    position: absolute;
+    top: 2%;
+    max-width: 554px;
+}
+
+.review_responses_pic3 {
+    position: absolute;
+    top: 2%;
+    max-width: 554px;
+}

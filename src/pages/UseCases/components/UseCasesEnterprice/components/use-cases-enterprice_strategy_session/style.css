@@ -1,0 +1,23 @@
+.strategy_session_cont{
+
+}
+.strategy_session_cont_block1{
+    max-width: 710px;
+    width: 100%;
+}
+.strategy_session_cont_block1 div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.strategy_session_cont_block1 button{
+    max-width: 350px ;
+    width: 100%;
+    padding: 15px 50px;
+    margin-top: 15px;
+}
+.strategy_session_cont_block1 button:hover{
+    background: rgba(238, 92, 11, 0.94);
+    font-weight: 700;
+    color: white;
+    transform: scale(1.02);
+}

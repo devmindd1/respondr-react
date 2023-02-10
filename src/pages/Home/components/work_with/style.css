@@ -1,0 +1,28 @@
+.workWith_cont_block1{
+    margin-left: 36px;
+    max-width: 702px;
+    width: 100%;
+}
+.work_with_pic{
+    max-width: 912px;
+    width: 100%;
+}
+.workWith_content_block{
+    margin-top: 26px;
+}
+.workWith_content_block p{
+    margin-top: 25px;
+}
+.workWith_cont_animation_block{
+    position: relative;
+}
+.workWith_cont_animation1{
+    position: absolute;
+    top: 0%;
+    left: -2%;
+}
+.workWith_cont_animation2{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}

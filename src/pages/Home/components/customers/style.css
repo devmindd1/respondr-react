@@ -1,0 +1,11 @@
+.customers_cont{
+    margin-top: 162px;
+}
+.customers_logo_cont{
+    margin: 75px auto 0px;
+    max-width: 1460px;
+    width: 100%;
+}
+.customers_logo_cont img:hover{
+    transform: scale(1.3);
+}
